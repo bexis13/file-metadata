@@ -1,0 +1,6 @@
+{
+    "name": "file metadata",
+    "description": "a simple file metadata microservice",
+    "repository": "https://github.com/bexis13/file-metadata",
+    "keywords": ["node","express","heroku"]
+}
